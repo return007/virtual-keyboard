@@ -1,3 +1,6 @@
+import cv2
+from constants import *
+
 # loads and returns keyboard image of type number 
 # Default keyboard is type 1
 def loadKeyboard(type = 1) :
